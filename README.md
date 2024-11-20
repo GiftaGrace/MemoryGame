@@ -25,7 +25,7 @@ To play the Memory Game on your local machine:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/GiftaGrace/memory-game.git
+    git clone https://github.com/GiftaGrace/MemoryGame.git
     ```
 
 2. Navigate into the project folder:
